@@ -1,2 +1,2 @@
 # SlackBot
-A simple Slack Bot
+A simple Slack Bot by Serverless framework
